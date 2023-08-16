@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "I Phone",
+    "price": 1400,
+    "variants": [
+      { "name": "13", "price": 1400 },
+      { "name": "13 Plus", "price": 1500},
+      { "name": "13 pro", "price": 1550}
+    ],
+    "limitPerOrder" :2
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "price": 1500,
+    "variants": [
+      { "name": "6 GB", "price": 1500},
+      { "name": "8 GB", "price": 1600}
+    ],
+    "limitPerOrder":3
+  }
+]
